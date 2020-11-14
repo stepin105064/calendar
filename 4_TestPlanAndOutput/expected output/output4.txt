@@ -1,0 +1,1 @@
+4.If you want to exit from the loop choose option 4 to exit and it  displays “bye!!”. 

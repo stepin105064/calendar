@@ -1,0 +1,1 @@
+3.You can find the entire year calendar by entering the year.It displays a nicely formatted calendar of every month of that particular year
