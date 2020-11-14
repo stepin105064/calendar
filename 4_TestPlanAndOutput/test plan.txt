@@ -1,1 +1,0 @@
-The purpose of testing is to discover errors. Testing is the process of trying to discover every conceivable fault or weakness in a work product. It provides a way to check the functionality of components, sub-assemblies, assemblies and/or a finished product.Software system meets its requirements and user expectations and does not fail in an unacceptable manner.

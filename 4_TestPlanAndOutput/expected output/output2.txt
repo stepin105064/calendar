@@ -1,1 +1,0 @@
-2.You can find the month calendar by entering the month and year. For example,  if you enter month = 09 and year = 2020, it gives you the overall september month
